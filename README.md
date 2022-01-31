@@ -1,5 +1,6 @@
-# portifolio2
-Portifólio 2 dev
+# portifolio js
+
+Portifólio dev
 
 ## Tarefas
 
@@ -7,8 +8,8 @@ O controle das tarefas desse projeto será realziado no Github
 
 ## Ícones
 
-:package: nova :up:funcionalidade
-:up: atualização
-:beatle: correção de bug
-:checkered_flag: release
+- :package: nova funcionalidade
+- :up: atualização
+- :beeatle: correção de bug
+- :checkered_flag: release
 
